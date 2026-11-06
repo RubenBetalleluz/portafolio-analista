@@ -1,6 +1,6 @@
 # Portafolio de análisis de negocio y datos
 
-Hola, soy Ruben Betalleluz, bachiller en Ingeniería Empresarial y de Sistemas y en Dirección en Tecnologías de la Información. En este repositorio reúno proyectos donde combino la visión de negocio con herramientas de datos y tecnología.
+Hola, soy Rubén Betalleluz, bachiller en Ingeniería Empresarial y de Sistemas y en Dirección en Tecnologías de la Información. En este repositorio reúno proyectos donde combino la visión de negocio con herramientas de datos y tecnología.
 
 ## Caso: ventas y cumplimiento de metas
 
@@ -26,4 +26,4 @@ Excel · SQL · Power BI · Python (pandas) · Power Automate · Git y GitHub
 
 ## Contacto
 
-LinkedIn: www.linkedin.com/in/rubén-betalleluz-tobar-1b6ba6182
+LinkedIn: https://www.linkedin.com/in/rubén-betalleluz-tobar-1b6ba6182
