@@ -2,6 +2,10 @@
 
 Hola, soy Rubén Betalleluz, bachiller en Ingeniería Empresarial y de Sistemas y en Dirección en Tecnologías de la Información. En este repositorio reúno proyectos donde combino la visión de negocio con herramientas de datos y tecnología.
 
+## Proyecto destacado: Boticas Vida Sana
+
+Una cadena de tres boticas perdía unos S/ 23,000 al año por falta de stock. Encontré la causa raíz, diseñé el sistema que la resuelve y planifiqué su implementación. [Ver el proyecto completo](boticas-vida-sana/)
+
 ## Caso: ventas y cumplimiento de metas
 
 Una tienda de tecnología necesitaba saber cómo le fue en octubre y qué vendedores cumplieron su meta. Resolví el mismo análisis con varias herramientas.
